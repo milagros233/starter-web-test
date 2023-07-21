@@ -1,5 +1,10 @@
 # robotstxt.org/
 User-agent: *
+<<<<<<< HEAD
 cambio master
 cambio master
+=======
+Cambio de real
+cambio de real
+>>>>>>> realwork
 hola
