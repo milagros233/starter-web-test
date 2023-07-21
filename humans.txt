@@ -13,5 +13,8 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< HEAD
 cambio 2
 se sigue el cambio
+=======
+>>>>>>> 575a3236575e06ec3b4f271a966267715f995734
