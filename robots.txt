@@ -1,6 +1,5 @@
 # robotstxt.org/
-
 User-agent: *
-hola 
-hola
+Cambio de real
+cambio de real
 hola
